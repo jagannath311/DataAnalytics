@@ -1,0 +1,40 @@
+Property_type,Property_status,Price_per_unit_area,Property_building_status,City_name,Price,Size,count
+Apartment,Ready to move,Any,ACTIVE,Bangalore,Any,Any,8958
+Apartment,Ready to move,Any,ACTIVE,Chennai,Any,Any,5062
+Apartment,Ready to move,Any,ACTIVE,Hyderabad,Any,Any,2549
+Apartment,Ready to move,Any,ACTIVE,Mumbai,Any,Any,39726
+Apartment,Under Construction,Any,ACTIVE,Bangalore,Any,Any,9723
+Apartment,Under Construction,Any,ACTIVE,Chennai,Any,Any,4062
+Apartment,Under Construction,Any,ACTIVE,Hyderabad,Any,Any,4053
+Apartment,Under Construction,Any,ACTIVE,Mumbai,Any,Any,31875
+Independent Floor,Ready to move,Any,ACTIVE,Bangalore,Any,Any,20
+Independent Floor,Ready to move,Any,ACTIVE,Chennai,Any,Any,10
+Independent Floor,Ready to move,Any,ACTIVE,Hyderabad,Any,Any,4
+Independent Floor,Ready to move,Any,ACTIVE,Mumbai,Any,Any,147
+Independent Floor,Under Construction,Any,ACTIVE,Bangalore,Any,Any,4
+Independent Floor,Under Construction,Any,ACTIVE,Hyderabad,Any,Any,7
+Independent Floor,Under Construction,Any,ACTIVE,Mumbai,Any,Any,23
+Independent House,Ready to move,Any,ACTIVE,Bangalore,Any,Any,54
+Independent House,Ready to move,Any,ACTIVE,Chennai,Any,Any,95
+Independent House,Ready to move,Any,ACTIVE,Hyderabad,Any,Any,41
+Independent House,Ready to move,Any,ACTIVE,Mumbai,Any,Any,63
+Independent House,Under Construction,Any,ACTIVE,Bangalore,Any,Any,67
+Independent House,Under Construction,Any,ACTIVE,Chennai,Any,Any,60
+Independent House,Under Construction,Any,ACTIVE,Hyderabad,Any,Any,84
+Independent House,Under Construction,Any,ACTIVE,Mumbai,Any,Any,15
+Residential Plot,Ready to move,Any,ACTIVE,Bangalore,Any,Any,739
+Residential Plot,Ready to move,Any,ACTIVE,Chennai,Any,Any,2664
+Residential Plot,Ready to move,Any,ACTIVE,Hyderabad,Any,Any,1265
+Residential Plot,Ready to move,Any,ACTIVE,Mumbai,Any,Any,53
+Residential Plot,Under Construction,Any,ACTIVE,Bangalore,Any,Any,350
+Residential Plot,Under Construction,Any,ACTIVE,Chennai,Any,Any,618
+Residential Plot,Under Construction,Any,ACTIVE,Hyderabad,Any,Any,542
+Residential Plot,Under Construction,Any,ACTIVE,Mumbai,Any,Any,10
+Villa,Ready to move,Any,ACTIVE,Bangalore,Any,Any,621
+Villa,Ready to move,Any,ACTIVE,Chennai,Any,Any,474
+Villa,Ready to move,Any,ACTIVE,Hyderabad,Any,Any,306
+Villa,Ready to move,Any,ACTIVE,Mumbai,Any,Any,122
+Villa,Under Construction,Any,ACTIVE,Bangalore,Any,Any,438
+Villa,Under Construction,Any,ACTIVE,Chennai,Any,Any,346
+Villa,Under Construction,Any,ACTIVE,Hyderabad,Any,Any,271
+Villa,Under Construction,Any,ACTIVE,Mumbai,Any,Any,36

@@ -1,0 +1,50 @@
+Property_type,Property_status,Price_per_unit_area,Property_building_status,City_name,Price,Size,Sub_urban_ID,Sub_urban_name,count
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Luxury,medium,10221,Ahmedabad East,1
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Luxury,small,10003,SG Highway,6
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Luxury,small,10221,Ahmedabad East,2
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Luxury,small,10229,Ahmedabad West,3
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Luxury,small,10237,Ahmedabad Central,1
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10003,SG Highway,32
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10221,Ahmedabad East,2
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10229,Ahmedabad West,18
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,medium,10003,SG Highway,1
+Apartment,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,medium,10229,Ahmedabad West,8
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Luxury,medium,10022,Delhi South,4
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Luxury,medium,10212,Dwarka,1
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Luxury,small,10022,Delhi South,1
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10018,Delhi Central,50
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10022,Delhi South,51
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10177,North Delhi,10
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10212,Dwarka,1
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,medium,10022,Delhi South,9
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,medium,10177,North Delhi,3
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,small,10022,Delhi South,1
+Apartment,Under Construction,Luxury,ACTIVE,Delhi,budget,small,10212,Dwarka,1
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,medium,10035,Kolkata East,38
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,medium,10036,Kolkata North,1
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,medium,10038,Kolkata South,114
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,medium,10235,Kolkata Central,1
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,small,10035,Kolkata East,93
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,small,10036,Kolkata North,1
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Luxury,small,10038,Kolkata South,73
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,large,10035,Kolkata East,83
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,large,10036,Kolkata North,8
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,large,10038,Kolkata South,284
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,large,10235,Kolkata Central,5
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,medium,10035,Kolkata East,30
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,medium,10038,Kolkata South,48
+Apartment,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,small,10039,Kolkata West,1
+Apartment,Under Construction,Luxury,ACTIVE,Lucknow,Ultra_Luxury,large,10242,Lucknow East,2
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Luxury,small,10212,Dwarka,1
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10018,Delhi Central,3
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10022,Delhi South,4
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10177,North Delhi,2
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,10212,Dwarka,4
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,large,11606,Rohini,2
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,medium,10176,West Delhi,2
+Independent Floor,Under Construction,Luxury,ACTIVE,Delhi,Ultra_Luxury,medium,10177,North Delhi,1
+Independent House,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10229,Ahmedabad West,2
+Independent House,Under Construction,Luxury,ACTIVE,Kolkata,Ultra_Luxury,large,10038,Kolkata South,3
+Villa,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10229,Ahmedabad West,3
+Villa,Under Construction,Luxury,ACTIVE,Ahmedabad,Ultra_Luxury,large,10237,Ahmedabad Central,1
+Villa,Under Construction,Luxury,ACTIVE,Lucknow,Ultra_Luxury,large,10242,Lucknow East,1
